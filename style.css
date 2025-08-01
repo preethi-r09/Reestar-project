@@ -1,0 +1,75 @@
+.container{
+    padding: 20px;
+    height: 400px;
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.one{
+    color: azure;
+    background-color: black;
+    font-size: larger;
+    text-align: center; 
+    padding-bottom: 2px; 
+}
+.one__1:hover{
+    font-weight: bolder;
+    color:coral;
+}
+a{
+    color: aliceblue;
+}
+a:hover{
+    color: blue;
+}
+.two{
+  text-align: center; 
+  padding-top: 5px; 
+}
+.two__1{
+    display: inline-block;
+    border: solid black 2px;
+}
+.two__2{
+    display: inline-block;
+    border: solid black 2px;
+}
+.two__3{
+    display: inline-block;
+     border: solid black 2px;
+}
+.two__4{
+    display: inline-block;
+    border: solid black 2px;
+}.three{
+    color: azure;
+    background-color: black;
+    text-align: center;  
+    height: 300px;
+}
+.three__input{
+    text-align:left; 
+    font-size: 15px; 
+}
+.three__text{
+    text-align:right;
+}
+button{
+    color: aliceblue;
+    background-color: black;
+}
+.three__1{
+    text-align: center;
+    display: inline-block;
+    tab-size: 20px;
+    
+}
+.three__send{
+    color: black;
+    background-color: yellow;
+    font-size: 18px; 
+    width: 250px;
+    text-align: center;
+}
+.three__send:hover{
+    color: black;
+}
